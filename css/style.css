@@ -233,7 +233,7 @@ section{
 
 .form{
     width: 380px;
-    height: 480px;
+    height: 500px;
     background: linear-gradient(to top, rgba(0,0,0,0.8)50%,rgba(0,0,0,0.8)50%);
     position: absolute;
     top:  60px;
@@ -291,6 +291,9 @@ section{
     border-radius: 10px;
     cursor: pointer;
     color: #fff;
+}
+.buttonL{
+    background-color: brown;
 }
 
 .button a{
